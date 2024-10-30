@@ -25,6 +25,7 @@
 1. Клонируйте репозиторий:
 
    git clone https://github.com/your-username/CoinMarketTest.git
+   
    cd CoinMarketTest
 
 2. Добавьте ваш API-ключ в файл CoinMarketTest.java:
