@@ -1,0 +1,23 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+target/
+
+# Maven
+log/
+!src/main/resources/logback.xml
+*.log
+*.out
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Intellij
+.idea/
+*.iml
+out/
+
